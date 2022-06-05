@@ -75,13 +75,12 @@ involved in creating and managing mail flow recipients.
     -   **Manage Organization information.** This window enables you to add
         company-specific information such as Title, Department, and Company.
 
-9.  Select the **Mailbox** tab again, and then under the **Mailbox permissions**
-    group, select **Manage mailbox delegation.** This enables the admin to
+9.  Select the **Delegation** tab. This enables the admin to
     assign a user to this mailbox’s **Send as** and **Send on behalf**
     permissions, as well as **Read and manage**. This option is commonly used if
     you want another user to send messages from this mailbox.
 
-10. While in the **Manage mailbox delegation** window, select **Edit** to the
+10. While in the **Delegation** window, select **Edit** to the
     right of **Read and manage.**
 
 11. In the **Manage Mailbox delegation** window, select **+ Add permissions**.
