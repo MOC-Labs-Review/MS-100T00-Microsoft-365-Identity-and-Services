@@ -48,11 +48,10 @@ involved in creating and managing mail flow recipients.
 
     Select the mailbox for **Joni Sherman** by selecting her **Display name**
     This will open the **user mailbox** window with Joni’s data pre-filled. By
-    default, the window displays the **Mailbox** tab (the tabs appear at the top
+    default, the window displays the **General** tab (the tabs appear at the top
     under Joni’s name).
 
-6.  Towards the bottom of the **Mailbox** tab, under **More actions,** select
-    **Custom attributes**.
+6.  Select the **Others** tab, and then select **Custom attributes**.
 
 7.  This opens the **Custom attributes** window for Joni. You can enter up to 15
     attributes. You will not be entering any attributes in this lab exercise,
